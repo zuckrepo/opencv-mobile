@@ -67,3 +67,4 @@
 -DBUILD_opencv_features2d=OFF
 -DBUILD_opencv_legacy=OFF
 -DBUILD_opencv_nonfree=OFF
+-DWITH_OPENMP=OFF
